@@ -1,0 +1,15 @@
+.footerContainer{
+    padding: 50px 50px;
+    background-color: rgb(24, 26, 26);
+    color: white;
+}
+.section-left div{
+    padding: 10px;
+}
+.section-list li{
+    margin-bottom: 10px;
+}
+
+a{
+    cursor: pointer;
+}

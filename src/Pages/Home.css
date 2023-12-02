@@ -1,0 +1,35 @@
+.homeContainer {
+    padding: 50px 50px;
+    background-color: mintcream;
+}
+
+.product-card {
+    /* height: 450px; */
+    /* padding: 10px 10px; */
+    background-color: mintcream !important;
+    border-color: mintcream !important;
+}
+
+.font-style {
+    font-weight: 600
+}
+
+.landing-img {
+    width: 650px;
+    height: 500px;
+}
+
+.product-details{
+    padding: 5px 10px;
+}
+
+.product-link:hover{
+    .product-details{
+        translate: 30px -200px;
+        transition-duration: 2s;
+        transition-timing-function: ease-in;
+    }
+    .product-card{
+        opacity: 0.2;
+    }
+}
